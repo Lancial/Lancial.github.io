@@ -8,3 +8,12 @@ date: 2020-07-01 ~ 2020-12-15
 location: "Seattle, Washington"
 ---
 
+
+Description
+-----
+
+Assisting Prof Adriana Schulz, I was in charge of:
+* Implementing a pairing program to enhance students’ collaboration in team projects and kept it using in future courses. 
+* Facilitated the course during lectures and online discussion boards.
+* Communicated with students in-depth during office-hours to address their confusion.
+
